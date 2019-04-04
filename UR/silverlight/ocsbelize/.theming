@@ -1,0 +1,28 @@
+{
+	"mVersionDependency": {
+		"UR.silverlight.sap_belize": "10.30.7.308830.0",
+		"UR.silverlight": "10.30.7.308830.0",
+		"UR": "10.30.7.308830.0"
+	},
+	"sEntity": "Theme",
+	"sId": "ocsbelize",
+	"sLabel": "OCS vs. Belize 1.63",
+	"oExtends": "UR.silverlight.sap_belize",
+	"aBuildFiles": [
+		"standards",
+		"standards_cozy",
+		"standards_condensed",
+		"standards_legacy"
+	],
+	"aFiles": [
+		"base",
+		"standards",
+		"standards_cozy",
+		"standards_condensed",
+		"standards_legacy",
+		"custom"
+	],
+	"sTextDirections": "LTR",
+	"sType": "STANDARD",
+	"sThemability": "PUBLIC"
+}

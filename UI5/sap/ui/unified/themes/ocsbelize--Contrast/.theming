@@ -1,0 +1,15 @@
+{
+	"mVersionDependency": {
+		"UI5.sap/ui/unified.sap_belize_plus": "1.63.0",
+		"UI5.sap/ui/unified": "1.63.0",
+		"UI5": "1.63.0"
+	},
+	"sEntity": "Theme",
+	"sId": "ocsbelize--Contrast",
+	"oExtends": "UI5.sap/ui/unified.sap_belize_plus",
+	"aBundled": [
+		"ocsbelize"
+	],
+	"sType": "ABSTRACT",
+	"sThemability": "PRIVATE"
+}

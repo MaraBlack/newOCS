@@ -1,0 +1,72 @@
+{
+	"mVersionDependency": {
+		"Base.baseLib.sap_belize": "11.0.24",
+		"Base.baseLib": "11.0.24",
+		"Base": "11.0.24"
+	},
+	"sEntity": "Theme",
+	"sId": "ocsbelize",
+	"sLabel": "OCS vs. Belize 1.63",
+	"oExtends": "Base.baseLib.sap_belize",
+	"aFiles": [
+		"base",
+		"preview",
+		"custom"
+	],
+	"aBundled": [
+		"ocsbelize--Contrast"
+	],
+	"sTextDirections": "LTR",
+	"sType": "STANDARD",
+	"sThemability": "PUBLIC",
+	"mData": {
+		"mThemeMasterState": {
+			"mSourceInfo": {
+				"sCreated": "2018-12-17T07:36:37.769Z",
+				"sLastModified": "2019-03-04T19:54:40.499Z",
+				"aVersionHistory": [
+					{
+						"sDate": "2019-03-04T18:50:18.513Z",
+						"mVersion": {
+							"Base": "11.0.24",
+							"UR": "10.30.7.308830.0",
+							"UI5": "1.63.0"
+						}
+					},
+					{
+						"sDate": "2019-02-07T10:12:30.740Z",
+						"mVersion": {
+							"Base": "11.0.23",
+							"UR": "10.30.7.308830.0",
+							"UI5": "1.62.0"
+						}
+					},
+					{
+						"sDate": "2019-01-10T09:00:09.318Z",
+						"mVersion": {
+							"Base": "11.0.22",
+							"UR": "10.30.7.308830.0",
+							"UI5": "1.61.2"
+						}
+					},
+					{
+						"sDate": "2018-12-17T07:36:37.769Z",
+						"mVersion": {
+							"Base": "11.0.21",
+							"UR": "10.30.7.308107.0",
+							"UI5": "1.60.2"
+						}
+					}
+				]
+			},
+			"mBuildInfo": {
+				"sLastBuilt": "2019-02-18T12:32:19.427Z",
+				"mVersion": {
+					"Base": "11.0.23",
+					"UR": "10.30.7.308830.0",
+					"UI5": "1.62.0"
+				}
+			}
+		}
+	}
+}
